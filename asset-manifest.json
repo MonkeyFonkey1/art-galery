@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/art-galery/static/css/main.6dfb287f.css",
+    "main.js": "/art-galery/static/js/main.c1f9ca3a.js",
+    "static/media/logo2.png": "/art-galery/static/media/logo2.24b90ceb6ea5b155e24b.png",
+    "static/media/googleLogo.png": "/art-galery/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/art-galery/index.html",
+    "main.6dfb287f.css.map": "/art-galery/static/css/main.6dfb287f.css.map",
+    "main.c1f9ca3a.js.map": "/art-galery/static/js/main.c1f9ca3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dfb287f.css",
+    "static/js/main.c1f9ca3a.js"
+  ]
+}
